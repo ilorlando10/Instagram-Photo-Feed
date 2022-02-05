@@ -1,0 +1,33 @@
+
+.InstagramBackground{
+    background-color:rgb(182, 180, 180); margin:0%; font-family:cursive;
+}
+
+.pageheader{  background-color: white;  
+}
+.pageheader h1{  width:500px; margin:auto; padding: 20px;
+
+}
+.myfirstphoto{
+    width:500px;  margin:auto; margin-top: 80px; background-color: white;
+}
+.header1{ 
+    font-weight: bold; background-color: white;   display: inline-block; padding:10px; display:flex;
+   
+}
+.Date1{  font-weight:lighter;  
+}
+.doggo img{ 
+    width:100%;
+}
+.footer1{ background-color: white; 
+
+}
+.footer1 p{
+margin-top: 0%; padding: 10px;
+}
+.header1 span{ flex-grow:2; text-align: right; margin-top: 4px;
+}
+h2{
+    margin:0%;
+}
